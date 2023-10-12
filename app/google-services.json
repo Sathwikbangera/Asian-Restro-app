@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "385342590057",
+    "project_id": "hoteldatabase-e5ead",
+    "storage_bucket": "hoteldatabase-e5ead.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385342590057:android:9616d262b862db97d6e6f8",
+        "android_client_info": {
+          "package_name": "com.miniproject.hoteldatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385342590057-1rdcg42cpfoiu1g5etncgcmas4cp280r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD98EAPfXLJwXyRFU6mjGlojHa-xiTtwtM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385342590057-1rdcg42cpfoiu1g5etncgcmas4cp280r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
